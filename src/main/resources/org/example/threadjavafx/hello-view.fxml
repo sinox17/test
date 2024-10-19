@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.shape.Rectangle?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="547.0" prefWidth="948.0" xmlns="http://javafx.com/javafx/22-ea" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <HBox fx:id="hbox" layoutX="2.0" layoutY="343.0" prefHeight="100.0" prefWidth="942.0" />
+      <Pane layoutX="374.0" layoutY="39.0" prefHeight="243.0" prefWidth="201.0" style="-fx-border-color: black;">
+         <Rectangle fx:id="gaz_tank" arcHeight="5.0" arcWidth="5.0" fill="#756648" height="220.0" layoutY="23.0"
+                    stroke="WHITE" strokeType="INSIDE" width="201.0"/>
+      </Pane>
+   </children>
+</AnchorPane>
