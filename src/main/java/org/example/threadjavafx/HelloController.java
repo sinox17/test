@@ -29,7 +29,7 @@ public class HelloController implements Initializable {
 
         Image car=new Image(Objects.requireNonNull(getClass().getResourceAsStream("car.png")));
         ImageView carImageView = new ImageView(car);
-
+        System.out.println("branch simo");
         Button button = new Button("sds");
         box.getChildren().add(button);
         gaz_tank.setHeight(200.3);
