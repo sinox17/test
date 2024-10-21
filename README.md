@@ -1,10 +1,10 @@
-#Heading test
+# Heading test
 
-##head 1
+## head 1
 
 ksjdkjksdj
 
-##head 2
+## head 2
 
 ```
 if(hgd > 0){
