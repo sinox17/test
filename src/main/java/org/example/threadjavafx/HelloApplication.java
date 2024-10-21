@@ -18,7 +18,12 @@ public class HelloApplication extends Application {
 
     public static void main(String[] args) {
         System.out.println("sir lkdlk");
+
         System.out.println("test2");
+
+        System.out.println("hello world");
+        System.out.println("sir b7alk");
+
         launch();
     }
 }
