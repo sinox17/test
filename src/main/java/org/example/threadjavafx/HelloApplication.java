@@ -31,6 +31,12 @@ public class HelloApplication extends Application {
 
         System.out.println("branch Dev2");
         System.out.println("branch Dev2");
+
+        System.out.println("S1");
+        System.out.println("S2");
+        System.out.println("S3");
+
+
         launch();
     }
 }
